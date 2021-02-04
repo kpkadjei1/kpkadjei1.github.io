@@ -28,23 +28,23 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: Kelvin Paa Kwesi Adjei
-  # hackerrank: kadjei1
-  # instagram: kaypeekay_
+  facebook: Kelvin Paa Kwesi Adjei
+  hackerrank: kadjei1
+  instagram: kaypeekay_
   # keybase: your_username
-  # linkedin: Kelvin Adjei
+  linkedin: Kelvin Adjei
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: 13071432
+  stackoverflow: 13071432
   # telegram: your_username
-  # twitter: Kelvin Adjei
+  twitter: Kelvin Adjei
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: http://kpkadjei1@github.io
+  youtube: Kelvin Adjei
 
 topics:
   - name: CSS
@@ -53,7 +53,7 @@ topics:
 
   - name: Web design
     web_url: https://www.codecademy.com
-    image_url: https://www.octalsoftware.com/blog/public/storage/img/blog/1584082601Web-development-designing-Anvar-Freelancer-1%20(1).png
+    image_url: https://miro.medium.com/max/1200/1*pE2fOVDikEUwiQJlh4ggzg.jpeg
 
   - name: Sass
     web_url: https://github.com/topics/sass
